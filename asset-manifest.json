@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NFTS/static/css/main.d87ec5a6.chunk.css",
+    "main.js": "/NFTS/static/js/main.8694e8c8.chunk.js",
+    "main.js.map": "/NFTS/static/js/main.8694e8c8.chunk.js.map",
+    "runtime-main.js": "/NFTS/static/js/runtime-main.a3b5509f.js",
+    "runtime-main.js.map": "/NFTS/static/js/runtime-main.a3b5509f.js.map",
+    "static/js/2.32c2a833.chunk.js": "/NFTS/static/js/2.32c2a833.chunk.js",
+    "static/js/2.32c2a833.chunk.js.map": "/NFTS/static/js/2.32c2a833.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/NFTS/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/NFTS/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/NFTS/index.html",
+    "static/css/main.d87ec5a6.chunk.css.map": "/NFTS/static/css/main.d87ec5a6.chunk.css.map",
+    "static/js/2.32c2a833.chunk.js.LICENSE.txt": "/NFTS/static/js/2.32c2a833.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/NFTS/static/media/1.75f03515.png",
+    "static/media/reset.css": "/NFTS/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3b5509f.js",
+    "static/js/2.32c2a833.chunk.js",
+    "static/css/main.d87ec5a6.chunk.css",
+    "static/js/main.8694e8c8.chunk.js"
+  ]
+}
